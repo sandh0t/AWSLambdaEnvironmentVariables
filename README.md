@@ -11,9 +11,9 @@ AWS CLI configured with valid credentials for the desired AWS account
 
 ## Usage
 
-'''
+```
 python getLambdaEnvVars.py -p aws_profile
-'''
+```
 
 License
 This project is licensed under the MIT License. Feel free to use and modify the script according to your needs.
