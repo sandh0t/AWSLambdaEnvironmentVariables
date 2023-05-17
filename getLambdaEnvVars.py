@@ -1,4 +1,4 @@
-##!/usr/bin/python
+#!/usr/bin/env python3
 
 # Color constants
 OK = '\033[92m'
