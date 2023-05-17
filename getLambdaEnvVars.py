@@ -1,3 +1,5 @@
+##!/usr/bin/python
+
 # Color constants
 OK = '\033[92m'
 INFO = '\033[93m'
